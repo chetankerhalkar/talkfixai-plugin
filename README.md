@@ -1,7 +1,7 @@
 # TalkFixAI plugin
 
 Fix things at home, safely. TalkFixAI gives Claude, ChatGPT and other AI
-assistants tested step-by-step repairs, the safety precautions for the job, the
+assistants step-by-step guided repairs, the safety precautions for the job, the
 parts you'll need, and an honest answer on when to stop and call a professional.
 
 Free, with no sign-in. Every tool is read-only.
@@ -52,8 +52,7 @@ The MCP server itself is hosted by AICK Studio; this repo only points to it.
 
 ## The app
 
-TalkFixAI is also a free phone app: talk through the repair out loud while your
-hands are busy, and show it the problem with the camera.
+TalkFixAI is also a phone app that guides a repair by voice and camera.
 [aickstudio.ai/talkfixai](https://aickstudio.ai/talkfixai)
 
 ## Safety

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "talkfixai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TalkFixAI helps you fix things around the home yourself. Describe what's broken and get clear steps one at a time, the safety precautions for that job, the parts you'll need, and an honest answer on when to stop and call a professional. Covers WiFi, plumbing, air conditioning, lighting, breakers, locks, phones and more. Free, with no sign-in.",
   "author": {
     "name": "AICK Studio",
