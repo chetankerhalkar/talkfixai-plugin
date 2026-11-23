@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "talkfixai": {
+      "type": "http",
+      "url": "https://talkfixai-api-h0byf7cuaah4gmab.centralus-01.azurewebsites.net/mcp"
+    }
+  }
+}

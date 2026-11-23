@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "talkfixai",
+  "version": "1.0.0",
+  "description": "TalkFixAI helps you fix things around the home yourself. Describe what's broken and get clear steps one at a time, the safety precautions for that job, the parts you'll need, and an honest answer on when to stop and call a professional. Covers WiFi, plumbing, air conditioning, lighting, breakers, locks, phones and more. Free, with no sign-in.",
+  "author": {
+    "name": "AICK Studio",
+    "url": "https://aickstudio.ai/talkfixai"
+  },
+  "homepage": "https://aickstudio.ai/talkfixai",
+  "keywords": ["repair", "home", "diy", "appliances", "plumbing", "safety", "troubleshooting"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "TalkFixAI",
+        "shortDescription": "Fix things at home, safely",
+        "longDescription": "TalkFixAI helps you fix things around the home yourself. Describe what's broken and get clear steps one at a time, the safety precautions for that job, the parts you'll need, and an honest answer on when to stop and call a professional. Covers WiFi, plumbing, air conditioning, lighting, breakers, locks, phones and more. Free, with no sign-in.",
+        "category": "Lifestyle",
+        "websiteURL": "https://aickstudio.ai/talkfixai",
+        "supportURL": "https://aickstudio.ai/talkfixai/support",
+        "privacyPolicyURL": "https://aickstudio.ai/talkfixai/privacy",
+        "termsOfServiceURL": "https://aickstudio.ai/talkfixai/terms",
+        "defaultPrompt": [
+          "My kitchen tap keeps dripping, help me fix it",
+          "The breaker keeps tripping, what should I check?",
+          "My dishwasher won't drain"
+        ],
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

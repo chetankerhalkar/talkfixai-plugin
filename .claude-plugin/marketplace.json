@@ -1,0 +1,16 @@
+{
+  "name": "talkfixai",
+  "owner": {
+    "name": "AICK Studio"
+  },
+  "metadata": {
+    "description": "TalkFixAI: step-by-step home repair help with safety built in."
+  },
+  "plugins": [
+    {
+      "name": "talkfixai",
+      "source": "./talkfixai",
+      "description": "Fix things at home, safely: tested step-by-step repairs, safety precautions, parts, and when to call a professional. Free, no sign-in."
+    }
+  ]
+}

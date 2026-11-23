@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "talkfixai": {
+      "type": "streamable-http",
+      "url": "https://talkfixai-api-h0byf7cuaah4gmab.centralus-01.azurewebsites.net/mcp"
+    }
+  }
+}
