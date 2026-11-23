@@ -8,8 +8,12 @@ Free, with no sign-in. Every tool is read-only.
 
 ## What it does
 
-- **Tested repairs**: WiFi router, phone screen, leaky faucet, tubelight, water
-  filter, air conditioner, circuit breaker and door lock, one step at a time.
+- **Step-by-step repairs**, one step at a time, for 23 common problems:
+  running or clogged toilet, blocked sink, dripping or weak tap, dishwasher or
+  washing machine not draining, garbage disposal, fridge not cooling, dryer not
+  drying, dead outlet, tripping breaker, cold radiator, air conditioner,
+  chirping smoke alarm, WiFi, printer, phone screen or charging, door lock,
+  squeaky door, tubelight and water filter.
 - **Safety first**: a gas smell, a carbon monoxide alarm, a swollen battery,
   water on live electrics or bare wiring gets a fixed, checked reply before any
   repair advice.
